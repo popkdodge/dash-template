@@ -11,6 +11,8 @@ dash-bootstrap-components = "*"
 gunicorn = "*"
 plotly = "*"
 pandas = "*"
-
+numpy = "*"
+joblib = "*"
+pickleshare= "==0.7.5"
 [requires]
 python_version = "3"
